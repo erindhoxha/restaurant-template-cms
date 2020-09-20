@@ -1,11 +1,17 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "Tasty Licks"
+title = "Theta UX/UI test"
 
 [params]
-  description = "An example website for restaurants built by [@eliwilliamson](https://github.com/eliwilliamson) using [Victor Hugo](https://github.com/netlify/victor-hugo)."
+  description = "An example website for restaurants built by Erind for testing Netlify"
 
 [[menu.main]]
     name = "About"
     url  = "/about"
     weight = 1
+
+[[menu.main]]
+    name = "Food"
+    url  = "/food"
+    weight = 2
+
