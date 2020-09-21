@@ -4,23 +4,23 @@ title = "Theta UX/UI test"
 
 [params]
   description = "An example website for restaurants built by Erind for testing Netlify"
-
 [[menu.main]]
     name = "About"
     url  = "/about"
     weight = 1
-
 [[menu.main]]
     name = "Food"
     url  = "/food"
     weight = 2
-
 [[menu.main]]
    name = "Drinks"
    url  = "/drinks"
    weight = 3
-   
 [[menu.main]]
   name = "Gallery"
   url  = "/gallery"
   weight = 4
+[[menu.main]]
+  name = "Make A Reservation"
+  url  = "/contact"
+  weight = 5
