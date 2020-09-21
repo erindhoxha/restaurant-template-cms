@@ -1,9 +1,9 @@
 ---
 title: Drink
 categories:
-  - water
+  - food
 description: Drink
-type: water
+type: food
 price: '24.244'
 ---
 
