@@ -15,3 +15,7 @@ title = "Theta UX/UI test"
     url  = "/food"
     weight = 2
 
+[[menu.main]]
+   name = "Drinks"
+   url  = "/drinks"
+   weight = 3
