@@ -1,7 +1,7 @@
 ---
 title: Drink
 categories:
-  - drinks
+  - water
 description: Drink
 type: water
 price: '24.244'
