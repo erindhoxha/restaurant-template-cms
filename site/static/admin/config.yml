@@ -10,7 +10,7 @@ collections: # A list of collections the CMS should be able to edit
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
       - {label: "Name of Drink", name: "title", widget: "string"}
-      - {label: "Drink Marker", name: "categories", widget: "string", default: ["food"]}
+      - {label: "Drink Marker", name: "categories", widget: "list", default: ["food"]}
       - {label: "Ingredients/Description", name: "description", widget: "text"}
       - {label: "Type of Drink", name: "type", widget: "string", default: "lunch"}
       - {label: "Price", name: "price", widget: "string"}
@@ -20,7 +20,7 @@ collections: # A list of collections the CMS should be able to edit
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
       - {label: "Name of Drink", name: "title", widget: "string"}
-      - {label: "Drink Marker", name: "categories", widget: "string", default: ["drinks"]}
+      - {label: "Drink Marker", name: "categories", widget: "list", default: ["drinks"]}
       - {label: "Ingredients/Description", name: "description", widget: "text"}
       - {label: "Type of Drink", name: "type", widget: "string", default: "beer"}
       - {label: "Price", name: "price", widget: "string"}
