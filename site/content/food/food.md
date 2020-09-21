@@ -1,9 +1,10 @@
 ---
-title: Drink
+title: Chicken Panini
 categories:
-  - food
-description: Drink
-type: food
-price: '24.244'
+  - Lunch
+  - Dinner
+description: Chicken, parmesan, tomatoes
+type: 
+price: '$24'
 ---
 
