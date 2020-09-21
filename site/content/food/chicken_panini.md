@@ -1,10 +1,9 @@
 ---
-title: Chicken Panini
+title: Chicken Panini bread
 categories:
   - Lunch
-  - Dinner
 description: Chicken, parmesan, tomatoes
 type: raw bar
-price: '$24'
+price: '$23'
 ---
 
