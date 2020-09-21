@@ -1,9 +1,10 @@
 ---
 title: Panini
 categories:
-  - food
+  - Lunch
+  - Dinner
 description: 'Panini made with caulflower, sunflowers seed etc.'
-type: garlic bread
-price: '24.99'
+type: raw bar
+price: '$24'
 ---
 
