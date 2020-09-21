@@ -3,8 +3,9 @@ title: Chicken Panini
 categories:
   - Lunch
   - Dinner
-description: Chicken, parmesan, tomatoes
+  - Breakfast
+description: 'Chicken, parmesan, tomatoes'
 type: raw bar
-price: '$24'
+price: $24
 ---
 
