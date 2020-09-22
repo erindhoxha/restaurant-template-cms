@@ -9,10 +9,10 @@ collections: # A list of collections the CMS should be able to edit
     folder: "site/content/food" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
-      - {label: "Name of Drink", name: "title", widget: "string"}
-      - {label: "Drink Marker", name: "categories", widget: "list", allow_add: true, default: ["breakfast"]}
-      - {label: "Ingredients/Description", name: "description", widget: "text"}
-      - {label: "Type of Drink", name: "type", widget: "string", default: "lunch"}
+      - {label: "Name of food", name: "title", widget: "string"}
+      - {label: "Food Marker", name: "categories", widget: "list", allow_add: true, default: ["breakfast"]}
+      - {label: "Description", name: "description", widget: "text"}
+      - {label: "Type of food", name: "type", widget: "string", default: "lunch"}
       - {label: "Price", name: "price", widget: "string"}
   - name: drinks
     label: "Drink Item" # Used in the UI, ie.: "New Post"
