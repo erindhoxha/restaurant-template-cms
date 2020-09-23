@@ -24,3 +24,7 @@ title = "Theta UX/UI test"
   name = "Make A Reservation"
   url  = "/contact"
   weight = 5
+  [[menu.main]]
+  name = "View our Theta members!"
+  url  = "/members"
+  weight = 6
