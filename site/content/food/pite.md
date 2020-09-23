@@ -6,6 +6,6 @@ categories:
   - dinner
 description: 'Spinach, Feta cheese'
 type: Pastries
-price: '19.99'
+price: $19.99
 ---
 
